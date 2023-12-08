@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu;wght@400;500;700&display=swap');
 *{
   margin: 0;
   padding: 0;
@@ -83,7 +83,6 @@ nav.sticky .media-icons a{
   color: #FFF;
 }
 
-
 nav .menu-btn,
 .navbar .menu .cancel-btn{
   position: absolute;
@@ -104,7 +103,6 @@ nav.sticky .menu-btn{
 .navbar .menu .menu-btn{
   color: #fff;
 }
-
 
 .home{
   height: 100vh;
@@ -345,7 +343,6 @@ section .button button:hover{
 .services .boxes .box:hover p{
   color: #fff;
 }
-/* Contact Me CSS */
 .contact{
   background: #F0F8FF;
 }
@@ -390,7 +387,6 @@ footer .text span a:hover{
   box-shadow: rgba(0, 0, 0, 0.15);
   display: none;
 }
-
 
 @media (max-width: 1190px) {
   section .content{
